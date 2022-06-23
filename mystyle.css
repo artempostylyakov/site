@@ -1,0 +1,19 @@
+p.red {
+  color: red;
+  font-size: 20px;
+}
+body {
+  background-color: white;
+  font-family: arial, serif;
+  font-size: 18px;
+  line-height: 27px;
+}
+.outstanding {
+  font-size: 150%;
+}
+section {
+  /*
+  * После главы — увеличенный отступ.
+  */
+  margin: 0 0 2em 0;
+}
